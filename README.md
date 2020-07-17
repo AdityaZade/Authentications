@@ -1,3 +1,4 @@
 # Authentications
-Authentication and Security techniques for web.
-Commit 1- Level 1,2 Security level -1 (using mongoose encrypter) and 2 (using dotenv and gitignoring .env file)
+Authentication and Security techniques for web.<br>
+<h2>Commit 1</h2>
+  <h4> Added level -1 (using mongoose encrypter) and level-2 (using dotenv and gitignoring .env file) authentication/security</h4>
